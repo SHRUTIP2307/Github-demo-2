@@ -6,4 +6,3 @@ Demo tutorial on 2nd may github basics
 
 this task has now been assigned to 4 peopel.
 
-hiii
